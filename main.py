@@ -41,7 +41,7 @@ def get_main_markup():
 def main_menu(message):
     welcome_text = (
         "👑 <b>WELCOME TO PREMIUM SYSTEM</b> 👑\n"
-        "<i>Hệ thống phân phối tài khoản - Admin Huân</i>\n"
+        "<i>Hệ thống phân phối tài khoản - Admin Khôingu</i>\n"
         "━━━━━━━━━━━━━━━━━━━━━\n\n"
         "👤 <b>KHÁCH HÀNG:</b> <code>{name}</code>\n"
         "🆔 <b>MÃ ĐỊNH DANH:</b> <code>{user_id}</code>\n"
